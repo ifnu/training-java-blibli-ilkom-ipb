@@ -1,0 +1,10 @@
+<dataset>
+    <CUSTOMER ID="1" NAME="Fulan" EMAIL="fulan@email.com" 
+              ADDRESS="kampus ipb" BIRTH_DATE="1990-11-01"/>
+    <CUSTOMER ID="2" NAME="Rijen" EMAIL="rijen@email.com" 
+              ADDRESS="kampus ipb" BIRTH_DATE="1990-12-01"/>
+    <CUSTOMER ID="3" NAME="Ammar" EMAIL="ammar@email.com" 
+              ADDRESS="kampus ipb" BIRTH_DATE="1990-01-01"/>
+    <CUSTOMER ID="4" NAME="Uray" EMAIL="uray@email.com" 
+              ADDRESS="kampus ipb" BIRTH_DATE="1990-02-01"/>
+</dataset>
