@@ -1,9 +1,9 @@
 # training-java-blibli-ilkom-ipb
-kode dan presentasi training di ilkom IPB sebagai bagian kerjasama antara blibli.com dan Ilmu Komputer IPB. 25-29 Januari 2016
 
 Training dilaksanakan pada tanggal 25-29 Januari 2016 di Kampus IPB Baranang Siang. 
 
 Training dilaksanakan dengan materi berikut ini :
+
 1. 25,26 Januari semua peserta training berada dalam satu ruangan dengan materi Java Fundamental dengan trainer Ifnu.
 2. 27,28,29 Januari peserta dibagi dalam 2 ruangan (track), Android dengan trainer Eko dan Java Web dengan trainer Ifnu.
 
@@ -29,9 +29,7 @@ http://developer.android.com/sdk/index.html
 Gunakan laptop yang mempunyai kapasitas komputasi mencukupi :
 
 1. Memory lebih dari 4GB
-
 2. Disk Mencukupi untuk menginstall software di atas
-
 3. Processor sebaiknya yang cukup powerfull seperti Intel i5 / i7
 
 Untuk menjalankan kode dari training Android, sebaiknya mempunyai device android dan kabel data untuk menjalankan aplikasi yang sedang didevelop, emulator Android sangat berat dan lambat.
