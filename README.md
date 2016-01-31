@@ -12,6 +12,7 @@ Materi training Java Fundamental akan diambil dari buku saya yang bisa didownloa
 https://github.com/ifnu/buku-java-desktop/raw/master/java-desktop-ifnu-bima.pdf
 
 Persiapan sebelum training dimulai:
+
 1. Download Java 8 JDK versi terbaru dari link di bawah ini, kemudian install sampai selesai
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
