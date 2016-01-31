@@ -8,7 +8,7 @@ Training dilaksanakan dengan materi berikut ini :
 2. 27,28,29 Januari peserta dibagi dalam 2 ruangan (track), Android dengan trainer Eko dan Java Web dengan trainer Ifnu.
 
 Materi training Java Fundamental akan diambil dari buku saya yang bisa didownload di link di bawah ini, materi android dan java web menyusul.
-https://project-template.googlecode.com/files/Java%20Desktop%20-%20Ifnu%20Bima.pdf
+https://github.com/ifnu/buku-java-desktop/raw/master/java-desktop-ifnu-bima.pdf
 
 1. Download Java 8 JDK versi terbaru dari link di bawah ini, kemudian install sampai selesai
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
