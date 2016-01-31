@@ -27,8 +27,11 @@ http://dev.mysql.com/downloads/mysql/
 http://developer.android.com/sdk/index.html
 
 Gunakan laptop yang mempunyai kapasitas komputasi mencukupi :
+
 1. Memory lebih dari 4GB
+
 2. Disk Mencukupi untuk menginstall software di atas
+
 3. Processor sebaiknya yang cukup powerfull seperti Intel i5 / i7
 
 Untuk menjalankan kode dari training Android, sebaiknya mempunyai device android dan kabel data untuk menjalankan aplikasi yang sedang didevelop, emulator Android sangat berat dan lambat.
